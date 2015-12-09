@@ -1,5 +1,6 @@
 # Translation_Server
-Translation应用的服务端
+Translation应用的服务端<br>
+开发环境:jdk7+myeclipse2014+mysql5.6
 
 请在config文件夹下的properties.properties文件修改对应的属性。
 
